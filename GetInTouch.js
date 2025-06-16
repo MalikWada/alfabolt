@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './LandingPage.css'; // or a separate GetInTouch.css if preferred
+import './LandingPage.css'; 
 
 export default function GetInTouch() {
   const [formData, setFormData] = useState({
